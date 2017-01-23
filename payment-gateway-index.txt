@@ -5,7 +5,7 @@
 * Step1 : you insert a MERCHANT KEY and salt key also.
 * Step2 : Some field many required as like amount, first name, product info, phone, email
 * Step3 : surl-> Success URL also need for redirect get response data. And POST information 
-          data you can add to the database also inert. 
+          data you can add to the database also insert. 
 * Step4 : furl-> Failure URL need also required because your transaction failed to redirect to failure page.
           As you like response information data you can delete txnid also And  you also redirect home page 
 */
